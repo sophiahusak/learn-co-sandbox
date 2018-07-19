@@ -1,0 +1,18 @@
+.navigation {
+  width: 100%;
+  height: 50px;
+  background-color: lightblue;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+
+body {
+  background:
+  url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yellow_Mongoose_1_%286964624854%29.jpg/1280px-Yellow_Mongoose_1_%286964624854%29.jpg);
+  background-size: contain;
+}
